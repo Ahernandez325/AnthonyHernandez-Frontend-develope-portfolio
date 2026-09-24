@@ -41,7 +41,7 @@ export function Footer() {
 			links: [
 				{ title: 'Blog', href: '/blog' },
 				{ title: 'Contact', href: '/contact' },
-				{ title: 'Resume', href: '#', download: true },
+				{ title: 'Resume', href: '/Anthony_Hernandez_Resume.pdf', download: true },
 			],
 		},
 	];
